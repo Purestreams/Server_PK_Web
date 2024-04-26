@@ -1,0 +1,32 @@
+[
+    {
+        "name": "E3 1265L v3",
+        "Brand": "INTEL",
+        "single": 983,
+        "Multi": 3390
+    },
+    {
+        "name": "单路E5 2686 v4",
+        "Brand": "INTEL",
+        "single": 785,
+        "Multi": 8312
+    },
+    {
+        "name": "双路Platinum 8222L",
+        "Brand": "INTEL",
+        "single": 940,
+        "Multi": 22516
+    },
+    {
+        "name": "EPYC 7551p",
+        "Brand": "AMD",
+        "single": 850,
+        "Multi": 19215
+    },
+    {
+        "name": "Ryzen 7 5800H",
+        "Brand": "AMD",
+        "single": 1446,
+        "Multi": 7233
+    }
+]
